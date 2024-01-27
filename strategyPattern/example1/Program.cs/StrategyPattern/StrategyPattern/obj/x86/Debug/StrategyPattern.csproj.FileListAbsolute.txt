@@ -1,0 +1,6 @@
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/bin/Debug/StrategyPattern.exe
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/bin/Debug/StrategyPattern.pdb
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/obj/x86/Debug/StrategyPattern.csproj.AssemblyReference.cache
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/obj/x86/Debug/StrategyPattern.csproj.CoreCompileInputs.cache
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/obj/x86/Debug/StrategyPattern.exe
+/home/kpontheway/code/csharp/strategyPattern/example1/Program.cs/StrategyPattern/StrategyPattern/obj/x86/Debug/StrategyPattern.pdb
